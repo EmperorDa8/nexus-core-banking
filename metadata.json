@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Core Banking AI",
+  "description": "A premium, highly secure financial concierge powered by Gemini 2.5 Native Audio for real-time voice-based banking services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
